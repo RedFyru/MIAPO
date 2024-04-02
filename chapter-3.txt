@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chapter 3 - the end is the begin?
+=======
+chapter 3
+>>>>>>> 068cdbee7d7f9af6b3a9ddab1466244b3c929ea3
